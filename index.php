@@ -16,7 +16,7 @@
 <body>
 <fieldset>
 <center>
-<legend>Available CRUD pages</legend>
+<legend>AULA do CALVO GITHUB</legend>
 <div class="form-group">
     <a href="entregador-index.php" class="btn btn-primary" role="button">entregador</a> 
 	
