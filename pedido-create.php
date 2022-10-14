@@ -115,12 +115,12 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                             </div>
 						<div class="form-group">
                                 <label>ped_dataini</label>
-                                <input type="text" name="ped_dataini" class="form-control" value="<?php echo $ped_dataini; ?>">
+                                <input type="datetime-local" name="ped_dataini" class="form-control" value="<?php echo $ped_dataini; ?>">
                                 <span class="form-text"><?php echo $ped_dataini_err; ?></span>
                             </div>
 						<div class="form-group">
                                 <label>ped_datafim</label>
-                                <input type="text" name="ped_datafim" class="form-control" value="<?php echo $ped_datafim; ?>">
+                                <input type="datetime-local" name="ped_datafim" class="form-control" value="<?php echo $ped_datafim; ?>">
                                 <span class="form-text"><?php echo $ped_datafim_err; ?></span>
                             </div>
 
