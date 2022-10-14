@@ -17,6 +17,8 @@
 <fieldset>
 <center>
 <legend>AULA do CALVO GITHUB</legend>
+
+<p> Lembre-se que no final que tudo acaba</p>
 <div class="form-group">
     <a href="entregador-index.php" class="btn btn-primary" role="button">entregador</a> 
 	
