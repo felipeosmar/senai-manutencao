@@ -30,7 +30,7 @@ if(isset($_GET["entreg_id"]) && !empty($_GET["entreg_id"])){
                 $row = mysqli_fetch_array($result, MYSQLI_ASSOC);
             } else{
                 // URL doesn't contain valid id parameter. Redirect to error page
-                header("location: error.php");
+                header("location: errorPage/error.php");
                 exit();
             }
 
