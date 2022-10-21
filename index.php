@@ -16,9 +16,9 @@
 <body>
 <fieldset>
 <center>
-<legend>AULA do CALVO GITHUB</legend>
+<legend>É A TROPA DO CALVO</legend>
 
-<p> Lembre-se que no final que tudo acaba</p>
+<p>A felicidade de sua vida depende da qualidade de seus pensamentos.</p>
 <div class="form-group">
     <a href="entregador-index.php" class="btn btn-primary" role="button">entregador</a> 
 	
