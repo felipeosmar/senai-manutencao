@@ -26,7 +26,7 @@
 		<a href="item-index.php" class="btn btn-primary" role="button">item</a>
 		<a href="pedido-index.php" class="btn btn-primary" role="button">pedido</a>
 		<a href="produto-index.php" class="btn btn-primary" role="button">produto</a>
-		<a href="usuario-index.php" class="btn btn-primary" role="button">usuario</a>
+		<a href="usuario-index.php" class="btn btn-primary" role="button">Gstavin</a>
 	<!-- TABLE_BUTTONS -->
 </div>
 </center>
