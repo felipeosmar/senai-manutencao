@@ -35,7 +35,7 @@ if(isset($_GET["ped_id"]) && !empty($_GET["ped_id"])){
             }
 
         } else{
-            echo "Oops! Something went wrong. Please try again later.<br>".$stmt->error;
+            echo "Oops! Algo deu errado. Por favor, tente novamente mais tarde."<br>".$stmt->error;
         }
     }
 
