@@ -16,7 +16,7 @@
 <body>
 <fieldset>
 <center>
-<legend>AULA do CALVO GITHUB</legend>
+<legend>Aula do Felipe sobre GITHUB</legend>
 
 <p> Lembre-se que no final que tudo acaba</p>
 <div class="form-group">
