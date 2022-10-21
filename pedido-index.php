@@ -10,7 +10,7 @@
             margin-top: 0;
         }
         table tr td:last-child a{
-            margin-right: 5px;
+            margin-right: 6px;
         }
         body {
             font-size: 14px;
