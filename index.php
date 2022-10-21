@@ -11,6 +11,9 @@
         table tr td:last-child a{
             margin-right: 5px;
         }
+        body{
+            background-color: pink;
+        }
     </style>
 </head>
 <body>
