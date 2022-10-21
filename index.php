@@ -20,7 +20,7 @@
 
 <p> Lembre-se que no final que tudo acaba</p>
 <div class="form-group">
-    <a href="entregador-index.php" class="btn btn-primary" role="button">entregador</a> 
+    <a href="entregador-index.php" class="btn btn-primary" role="button">ara que entrega</a> 
 	
     	<a href="estabelecimento-index.php" class="btn btn-primary" role="button">estabelecimento</a>
 		<a href="item-index.php" class="btn btn-primary" role="button">item</a>
