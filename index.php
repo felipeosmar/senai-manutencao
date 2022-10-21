@@ -18,15 +18,16 @@
 <center>
 <legend>AULA do CALVO GITHUB</legend>
 
-<p> Lembre-se que no final que tudo acaba</p>
+<p>Lembre-se que no final que tudo acaba</p> <br/>
+<p>Ou não.</p>
 <div class="form-group">
-    <a href="entregador-index.php" class="btn btn-primary" role="button">entregador</a> 
+    <a href="entregador-index.php" class="btn btn-primary" role="button">entregadores</a> 
 	
-    	<a href="estabelecimento-index.php" class="btn btn-primary" role="button">estabelecimento</a>
-		<a href="item-index.php" class="btn btn-primary" role="button">item</a>
-		<a href="pedido-index.php" class="btn btn-primary" role="button">pedido</a>
-		<a href="produto-index.php" class="btn btn-primary" role="button">produto</a>
-		<a href="usuario-index.php" class="btn btn-primary" role="button">usuario</a>
+    	<a href="estabelecimento-index.php" class="btn btn-primary" role="button">estabelecimentos</a>
+		<a href="item-index.php" class="btn btn-primary" role="button">itens</a>
+		<a href="pedido-index.php" class="btn btn-primary" role="button">pedidos</a>
+		<a href="produto-index.php" class="btn btn-primary" role="button">produtos</a>
+		<a href="usuario-index.php" class="btn btn-primary" role="button">usuários</a>
 	<!-- TABLE_BUTTONS -->
 </div>
 </center>
