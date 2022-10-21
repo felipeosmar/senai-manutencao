@@ -15,6 +15,6 @@ class Renderer
 
         extract($data, EXTR_OVERWRITE);
 
-        include $viewFile;
+        include $viewFile;qwasd
     }
 }
