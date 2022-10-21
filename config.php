@@ -1,7 +1,7 @@
 <?php 
 $db_server = 'localhost:3307'; 
 $db_name = 'banco'; 
-$db_user = 'root'; 
+$db_user = 'jorge'; 
 $db_password = ''; 
 $no_of_records_per_page = 10; 
 
