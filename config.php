@@ -1,6 +1,6 @@
 <?php 
 $db_server = 'localhost:3307'; 
-$db_name = 'banco'; 
+$db_name = 'banco_sesi.senai'; 
 $db_user = 'root'; 
 $db_password = ''; 
 $no_of_records_per_page = 10; 
