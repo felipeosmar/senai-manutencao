@@ -1,3 +1,3 @@
 # senai-manutencao
-inicializar o banco
-importar o aquivos SQL para criar as tabelas e popular com dados
+1 - inicializar o banco
+2 - importar os arquivos SQL para criar as tabelas e popular com dados
