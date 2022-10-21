@@ -61,9 +61,13 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 }
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html>swsssd
+
+
+
+
 <html lang="en">
-<head>
+adhead>d
     <meta charset="UTF-8">
     <title>Create Record</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
@@ -111,7 +115,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                             </div>
 						<div class="form-group">
                                 <label>entreg_datareg</label>
-                                <input type="text" name="entreg_datareg" class="form-control" value="<?php echo $entreg_datareg; ?>">
+w                                ww
+							<input type="text" name="entreg_datareg" class="form-control" value="<?php echo $entreg_datareg; ?>">
                                 <span class="form-text"><?php echo $entreg_datareg_err; ?></span>
                             </div>
 						<div class="form-group">
