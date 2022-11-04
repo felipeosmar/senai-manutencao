@@ -25,7 +25,7 @@ if(isset($_POST["item_id"]) && !empty($_POST["item_id"])){
             header("location: item-index.php");
             exit();
         } else{
-            echo "Oops! Something went wrong. Please try again later.<br>".$stmt->error;
+            echo "Oops!  Please try again later Something went wrong..<br>".$stmt->error;
         }
     }
 
