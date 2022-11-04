@@ -13,8 +13,9 @@
             margin-right: 5px;
         }
         body {
-            font-size: 14px;
+            font-size: 25px;
         }
+        /* te amo S2 */
     </style>
 </head>
 <body>

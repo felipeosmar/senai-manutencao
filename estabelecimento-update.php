@@ -136,7 +136,7 @@ if(isset($_POST["estab_id"]) && !empty($_POST["estab_id"])){
                     <div class="page-header">
                         <h2>Update Record</h2>
                     </div>
-                    <p>Please edit the input values and submit to update the record.</p>
+                    <p>Edite os valores de entrada e envie para atualizar o registro.</p>
                     <form action="<?php echo htmlspecialchars(basename($_SERVER['REQUEST_URI'])); ?>" method="post">
 
                         <div class="form-group">
