@@ -57,12 +57,12 @@ if(isset($_POST["ped_id"]) && !empty($_POST["ped_id"])){
             <div class="row">
                 <div class="col-md-6 mx-auto">
                     <div class="page-header">
-                        <h1>Delete Record</h1>
+                        <h1>apagar registro</h1>
                     </div>
                     <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post">
                         <div class="alert alert-danger fade-in">
                             <input type="hidden" name="ped_id" value="<?php echo trim($_GET["ped_id"]); ?>"/>
-                            <p>Are you sure you want to delete this record?</p><br>
+                            <p>Tem certeza de que deseja excluir este registro?</p><br>
                             <p>
                                 <input type="submit" value="Yes" class="btn btn-danger">
                                 <a href="pedido-index.php" class="btn btn-secondary">No</a>
