@@ -55,7 +55,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
                 $stmt = null;
                 header("location: entregador-index.php");
             } else{
-                echo "Something went wrong. Please try again later.";
+                echo "Something went wrong. Please try again later. (Algo deu errado. Por favor, tente novamente mais tarde.)";
             }
 
 }
